@@ -9,8 +9,15 @@
     "hoverHighlightDepth": 1,
     "neighborBoostFactor": 20,
     "distanceCurveSteepness": 1,
-    "distanceOuterRadiusMultiplier": 35,
+    "distanceOuterRadiusMultiplier": 50,
     "dimFactor": 0.1,
-    "distanceInnerRadiusMultiplier": 0.1
+    "distanceInnerRadiusMultiplier": 1
+  },
+  "physics": {
+    "repulsionStrength": 15,
+    "springStrength": 1,
+    "springLength": 30,
+    "centerPull": 0.1,
+    "damping": 0.85
   }
 }
