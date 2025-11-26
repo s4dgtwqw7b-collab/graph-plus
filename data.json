@@ -2,14 +2,15 @@
   "glow": {
     "minNodeRadius": 3,
     "maxNodeRadius": 20,
-    "glowRadiusMultiplier": 3,
+    "glowRadiusMultiplier": 5,
     "minCenterAlpha": 0,
-    "maxCenterAlpha": 1,
-    "hoverBoostFactor": 1,
-    "hoverHighlightDepth": 0,
+    "maxCenterAlpha": 0.5,
+    "hoverBoostFactor": 20,
+    "hoverHighlightDepth": 1,
     "neighborBoostFactor": 20,
     "distanceCurveSteepness": 1,
-    "distanceOuterRadiusMultiplier": 1,
-    "dimFactor": 0.9
+    "distanceOuterRadiusMultiplier": 35,
+    "dimFactor": 0.1,
+    "distanceInnerRadiusMultiplier": 0.1
   }
 }
