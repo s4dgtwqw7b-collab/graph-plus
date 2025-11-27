@@ -2,22 +2,23 @@
   "glow": {
     "minNodeRadius": 3,
     "maxNodeRadius": 20,
-    "glowRadiusMultiplier": 5,
+    "glowRadiusMultiplier": 20,
     "minCenterAlpha": 0,
-    "maxCenterAlpha": 0.5,
-    "hoverBoostFactor": 20,
-    "hoverHighlightDepth": 1,
-    "neighborBoostFactor": 20,
+    "maxCenterAlpha": 0,
+    "hoverBoostFactor": 1,
+    "hoverHighlightDepth": 0,
+    "neighborBoostFactor": 10,
     "distanceCurveSteepness": 1,
-    "distanceOuterRadiusMultiplier": 50,
+    "distanceOuterRadiusMultiplier": 5,
     "dimFactor": 0.1,
     "distanceInnerRadiusMultiplier": 1
   },
   "physics": {
-    "repulsionStrength": 15,
+    "repulsionStrength": 150,
     "springStrength": 1,
     "springLength": 30,
     "centerPull": 0.1,
-    "damping": 0.85
+    "damping": 0.8,
+    "linkForceMultiplier": 3
   }
 }
