@@ -17,7 +17,7 @@
     "countDuplicateLinks": true,
     "drawDoubleLines": true,
     "showTags": true,
-    "hoverScale": 1e-323,
+    "hoverScale": 1,
     "useCenterNote": false,
     "centerNoteTitle": "",
     "useOutlinkFallback": false
