@@ -2,10 +2,6 @@
   "graph": {
     "minNodeRadius": 3,
     "maxNodeRadius": 20,
-    "minCenterAlpha": 0.1,
-    "maxCenterAlpha": 0.6,
-    "highlightDepth": 1,
-    "focusSmoothing": 0.8,
     "nodeColorAlpha": 0.1,
     "tagColorAlpha": 0.1,
     "labelBaseFontSize": 24,
@@ -21,9 +17,7 @@
     "hoverScale": 1,
     "useCenterNote": false,
     "centerNoteTitle": "",
-    "useOutlinkFallback": false,
-    "minSphereRadius": 200,
-    "maxSphereRadius": 200
+    "useOutlinkFallback": false
   },
   "physics": {
     "repulsionStrength": 5000,
@@ -34,7 +28,7 @@
     "notePlaneStiffness": 0,
     "tagPlaneStiffness": 0,
     "mouseGravityEnabled": true,
-    "mouseGravityRadius": 14,
+    "mouseGravityRadius": 15,
     "mouseGravityStrength": 10,
     "mouseGravityExponent": 2,
     "worldCenterX": 0,
@@ -65,5 +59,1136 @@
       "zoomVel": 0
     }
   },
-  "nodePositions": {}
+  "nodePositions": {
+    "woody": {
+      "copilot/memory/Recent Conversations.md": {
+        "x": -303.6294258089049,
+        "y": 372.07023318938707
+      },
+      "copilot/copilot-conversations/hello_test@20251222_161021.md": {
+        "x": -150.66075331709743,
+        "y": -159.8069253981388
+      },
+      "notes/without saying it is a jug of water.md": {
+        "x": -42.006724035731544,
+        "y": -510.47586547406263
+      },
+      "notes/write first name later.md": {
+        "x": -177.07383912442833,
+        "y": -107.78088234689281
+      },
+      "notes/your behaviors arent your identity.md": {
+        "x": 704.3296294916729,
+        "y": -330.6317762375862
+      },
+      "notes/you say that i am.md": {
+        "x": -402.9374987424495,
+        "y": 98.60079195618371
+      },
+      "notes/you shouldn’t should your self.md": {
+        "x": 59.21038245920054,
+        "y": 75.95219244562121
+      },
+      "notes/yaris proof of trade in.md": {
+        "x": 271.1670493937338,
+        "y": -509.2967339465676
+      },
+      "notes/wit is a scoundrel.md": {
+        "x": -288.6856612704174,
+        "y": -614.0206093534312
+      },
+      "notes/xiao seeed rp2040.md": {
+        "x": -379.2290094194936,
+        "y": 331.25111349104
+      },
+      "notes/why dreaming is so wonderful.md": {
+        "x": 203.19118794078835,
+        "y": -10.6677295028826
+      },
+      "notes/wind down time.md": {
+        "x": -141.51551447926852,
+        "y": -732.7025156432967
+      },
+      "notes/why you can't feel joy.md": {
+        "x": 88.63143367993611,
+        "y": -22.466795626251336
+      },
+      "notes/values.md": {
+        "x": 371.6833807938403,
+        "y": 2.607962267024243
+      },
+      "notes/why believe at all.md": {
+        "x": 59.13075750722642,
+        "y": 306.412862378312
+      },
+      "notes/whole bunch of things.md": {
+        "x": -536.901878857602,
+        "y": -130.75449639737357
+      },
+      "notes/when things look ugly.md": {
+        "x": -74.2370081984909,
+        "y": -316.073017615561
+      },
+      "notes/when each moment becomes an expectation.md": {
+        "x": 660.2321409210886,
+        "y": 67.59465303765322
+      },
+      "notes/what would a dog horror film look like.md": {
+        "x": 866.237195552542,
+        "y": 64.54430601443362
+      },
+      "notes/what is the meaning of life?.md": {
+        "x": -17.441148902994996,
+        "y": -229.42083068681285
+      },
+      "notes/what is femininity.md": {
+        "x": 7.819341524651629,
+        "y": -384.5688937117606
+      },
+      "notes/what benefits the hive benefits the bee.md": {
+        "x": 974.0359990691974,
+        "y": -100.27501468733603
+      },
+      "notes/what is a leader?.md": {
+        "x": -949.3489015154935,
+        "y": 145.7312626101729
+      },
+      "notes/until you bring the unconscious into the conscious, it will rule your life and you will call it fate..md": {
+        "x": -553.698009434249,
+        "y": 347.71535981397994
+      },
+      "notes/we think thoughts.md": {
+        "x": -217.95732384332487,
+        "y": 215.20840196645725
+      },
+      "notes/we could’ve made this real.md": {
+        "x": 697.3724544838332,
+        "y": 177.83403566633686
+      },
+      "notes/water that's poured inside will sink the boat.md": {
+        "x": -344.44496342197954,
+        "y": -520.2079486008377
+      },
+      "notes/vulnerable.md": {
+        "x": 113.43903630252233,
+        "y": -26.191957359516124
+      },
+      "notes/valhalla.md": {
+        "x": 225.40697336559202,
+        "y": -149.422343946067
+      },
+      "notes/vacation like you're retired.md": {
+        "x": -362.81944902389995,
+        "y": 860.492172835898
+      },
+      "notes/unconscious.md": {
+        "x": 331.05165534278643,
+        "y": 174.16695059318994
+      },
+      "notes/under the knife.md": {
+        "x": -287.83869364982576,
+        "y": 171.4627002981066
+      },
+      "notes/ukulele.md": {
+        "x": 713.4154958998639,
+        "y": 465.94260041296513
+      },
+      "notes/two mothers.md": {
+        "x": 353.83159137958125,
+        "y": 113.86621601247127
+      },
+      "notes/trust.md": {
+        "x": 20.99619602658362,
+        "y": 23.321457047704623
+      },
+      "notes/tundra.md": {
+        "x": 364.9395875977832,
+        "y": 264.8552243983907
+      },
+      "notes/trauma kills curiosity.md": {
+        "x": -793.1726119600289,
+        "y": 552.0058790008823
+      },
+      "notes/together.md": {
+        "x": -387.9655432954818,
+        "y": 145.86980165326955
+      },
+      "notes/today you tomorrow me.md": {
+        "x": 607.0202514991979,
+        "y": 524.8013681097412
+      },
+      "notes/today stands between yesterday and tomorrow.md": {
+        "x": 334.3905717103409,
+        "y": -386.64238295718474
+      },
+      "notes/thoughts don't think.md": {
+        "x": 326.5695260094187,
+        "y": 510.06494451411953
+      },
+      "notes/to plan for a future which is not going to become present.md": {
+        "x": 378.42414819829855,
+        "y": -187.7922704967531
+      },
+      "notes/to cherish secrets and to restrain emotions are psychic misdemeanors.md": {
+        "x": -649.356693672143,
+        "y": -308.64181979902753
+      },
+      "notes/to have running water you must let go of it.md": {
+        "x": 193.77180228371222,
+        "y": 4.429871345940913
+      },
+      "notes/time was made for man but man was not made for time.md": {
+        "x": 178.80016653971438,
+        "y": -488.6076348247938
+      },
+      "notes/threshold guardian.md": {
+        "x": 55.62254263231008,
+        "y": -325.19107697611963
+      },
+      "notes/the way.md": {
+        "x": -117.48629642943116,
+        "y": -202.75572764985247
+      },
+      "notes/the warrior.md": {
+        "x": 31.25623937836788,
+        "y": -95.68177614703724
+      },
+      "notes/there's sand in my wand.md": {
+        "x": -22.647523278699428,
+        "y": 931.2728895535735
+      },
+      "notes/there is no road to happiness.md": {
+        "x": -828.2256713634013,
+        "y": -506.79464000020863
+      },
+      "notes/there appears to be a conscious in mankind.md": {
+        "x": -350.88989700850874,
+        "y": -952.4999842143218
+      },
+      "notes/the word water is only useful among those who experience water.md": {
+        "x": 91.96995148884031,
+        "y": -677.5557656884486
+      },
+      "notes/the word \"god\" is only useful amongst those who experience \"god\".md": {
+        "x": -19.779625467660804,
+        "y": -690.9524389040297
+      },
+      "notes/the paranoia of keeping boundaries.md": {
+        "x": 11.992921524253653,
+        "y": 7.950428909117845
+      },
+      "notes/the tower of babel.md": {
+        "x": -485.05537975409385,
+        "y": 817.8112191702935
+      },
+      "notes/the timeless in you is aware of life's timelessness.md": {
+        "x": -414.3633325253247,
+        "y": -101.86347965411791
+      },
+      "notes/the sun never sleeps.md": {
+        "x": -56.894661013847966,
+        "y": -214.28201677484248
+      },
+      "notes/the magic of trains.md": {
+        "x": -66.10500854882413,
+        "y": 231.30134759803906
+      },
+      "notes/the prophet.md": {
+        "x": -379.28804557411723,
+        "y": -13.51527372159746
+      },
+      "notes/the pot.md": {
+        "x": -358.0999962443241,
+        "y": -107.80395511096245
+      },
+      "notes/the needs we need.md": {
+        "x": 248.6972090985715,
+        "y": 645.5654052578514
+      },
+      "notes/the music lesson.md": {
+        "x": -522.9154731365406,
+        "y": -393.2894853627628
+      },
+      "notes/the mother.md": {
+        "x": -218.14543445294566,
+        "y": -177.59866085672766
+      },
+      "notes/the impediment to action advances action.md": {
+        "x": -207.97287056652678,
+        "y": 27.53455954619021
+      },
+      "notes/the meaning of life.md": {
+        "x": -161.94875801978466,
+        "y": -134.09595779029488
+      },
+      "notes/the legitimate use of images is to express the truth not possess it.md": {
+        "x": -674.339014022758,
+        "y": 134.75156908653597
+      },
+      "notes/the golden rule.md": {
+        "x": 385.7178878622031,
+        "y": -486.78786528220695
+      },
+      "notes/the huntress.md": {
+        "x": -364.5101767159656,
+        "y": -124.59248154771805
+      },
+      "notes/the frustration of having to always pursue a future good.md": {
+        "x": 526.5331086651331,
+        "y": -175.47227822283122
+      },
+      "notes/the frat house.md": {
+        "x": 685.0549111834636,
+        "y": 370.6644041598689
+      },
+      "notes/the first people to leave earth will be the people that want to leave.md": {
+        "x": 172.11776246547782,
+        "y": 99.8079198417289
+      },
+      "notes/the eye with which I see God is the same eye with which God sees me.md": {
+        "x": 310.74576022521615,
+        "y": -744.9306183211135
+      },
+      "notes/the end of the driveway.md": {
+        "x": -358.1421353721381,
+        "y": -522.707689896008
+      },
+      "notes/the chinese farmer.md": {
+        "x": 579.8121977045955,
+        "y": -348.95359919685063
+      },
+      "notes/the archetype of a father.md": {
+        "x": 175.66433867902597,
+        "y": 628.8275380566012
+      },
+      "notes/the archetype of a father 2.md": {
+        "x": -845.932287166305,
+        "y": -202.77794502919699
+      },
+      "notes/the alchemy of noita.md": {
+        "x": -123.1567583392287,
+        "y": -322.53189244284147
+      },
+      "notes/the Son of Man.md": {
+        "x": -214.4528816567214,
+        "y": -498.0921679530359
+      },
+      "notes/task.md": {
+        "x": 63.87523348605539,
+        "y": 479.4165058112982
+      },
+      "notes/symbolism.md": {
+        "x": 178.12293396460186,
+        "y": -615.1317293960266
+      },
+      "notes/surrender in your field.md": {
+        "x": 346.93473127178885,
+        "y": 49.8313997201687
+      },
+      "notes/sun soul.md": {
+        "x": 740.8376650519608,
+        "y": 541.814050354553
+      },
+      "notes/striso board.md": {
+        "x": 290.9274961968023,
+        "y": 48.01596717708981
+      },
+      "notes/strawberry shoulders.md": {
+        "x": -506.2686730590489,
+        "y": 578.8621560439232
+      },
+      "notes/spring.md": {
+        "x": -520.2163113045126,
+        "y": 52.311909364966475
+      },
+      "notes/spray paint the bus.md": {
+        "x": 546.7619239694096,
+        "y": 49.974610085553564
+      },
+      "notes/spells and incantations.md": {
+        "x": -971.8759651479165,
+        "y": -244.05781082965476
+      },
+      "notes/speech is generated by the intellect and generates intellect.md": {
+        "x": -570.6308460015033,
+        "y": 249.68111011591884
+      },
+      "notes/socializing.md": {
+        "x": 13.52691423385238,
+        "y": -972.2185575161353
+      },
+      "notes/sin.md": {
+        "x": 83.59640772854374,
+        "y": -139.60845473090694
+      },
+      "notes/social context.md": {
+        "x": 155.18931349930924,
+        "y": 393.73541101891664
+      },
+      "notes/sacrifice.md": {
+        "x": -293.3052152820852,
+        "y": 76.33789733744312
+      },
+      "notes/sharing job.md": {
+        "x": -64.92075864610071,
+        "y": 629.2529412252577
+      },
+      "notes/sharing clay.md": {
+        "x": -174.48394120815837,
+        "y": 169.7823473304779
+      },
+      "notes/sharing genesis.md": {
+        "x": 478.8087939298267,
+        "y": 486.21692786231586
+      },
+      "notes/shame.md": {
+        "x": -5.451251837966851,
+        "y": -18.06917153123151
+      },
+      "notes/serving the serpent.md": {
+        "x": 46.493960625767926,
+        "y": 437.7192307132648
+      },
+      "notes/servant as a leader.md": {
+        "x": -346.9015097092252,
+        "y": 381.49273781915514
+      },
+      "notes/serotonin.md": {
+        "x": 361.72303594873745,
+        "y": 468.05028969290106
+      },
+      "notes/ruby.md": {
+        "x": 193.82434086698004,
+        "y": -373.14811665172596
+      },
+      "notes/reward.md": {
+        "x": 37.63570858214284,
+        "y": 312.91458473152875
+      },
+      "notes/people pleasers.md": {
+        "x": 251.5578605885312,
+        "y": -62.68314909218252
+      },
+      "notes/resentment.md": {
+        "x": 36.81120532615432,
+        "y": 183.45153861677178
+      },
+      "notes/respect through adversity.md": {
+        "x": -242.06433556777526,
+        "y": -146.75458305106258
+      },
+      "notes/repair and rebirth.md": {
+        "x": -175.64325851549043,
+        "y": -292.826943860056
+      },
+      "notes/reflecting on my self.md": {
+        "x": -25.960605011141446,
+        "y": -258.28712904021023
+      },
+      "notes/reflecting on my self's self.md": {
+        "x": 293.21215769854297,
+        "y": -238.10502738035964
+      },
+      "notes/reflecting on my parents.md": {
+        "x": -83.56407451851678,
+        "y": -368.5058336592946
+      },
+      "notes/raw thoughts.md": {
+        "x": -29.892622412810407,
+        "y": 250.52728834346524
+      },
+      "notes/psychology of the unconscious.md": {
+        "x": 455.7481011178607,
+        "y": 377.6526288245477
+      },
+      "notes/qualities in your parents and partner.md": {
+        "x": 198.03903374514582,
+        "y": 929.5537105880647
+      },
+      "notes/psycho-neurosis.md": {
+        "x": 884.9710193217842,
+        "y": -218.13094085377617
+      },
+      "notes/perceval and The Holy Grail.md": {
+        "x": 547.1405241502529,
+        "y": 11.520142539913985
+      },
+      "notes/our minds have to be silent some of the time.md": {
+        "x": 130.1699506253653,
+        "y": -345.014846421339
+      },
+      "notes/patience.md": {
+        "x": 45.585355368826384,
+        "y": 169.2756415122444
+      },
+      "notes/paranoia.md": {
+        "x": -74.16393061805766,
+        "y": -81.89836864681087
+      },
+      "notes/oxytocin.md": {
+        "x": 371.06194337154443,
+        "y": 516.4062957935504
+      },
+      "notes/overthinking.md": {
+        "x": 630.185115132375,
+        "y": 194.11412171758963
+      },
+      "notes/our body does not eliminate poisons by knowing their names.md": {
+        "x": -533.3071833188642,
+        "y": -302.92373377025257
+      },
+      "notes/mycology.md": {
+        "x": 633.3430242333287,
+        "y": -748.1514065155876
+      },
+      "notes/of Janet and George.md": {
+        "x": 214.8575396126434,
+        "y": 390.92197702746967
+      },
+      "notes/now.md": {
+        "x": 336.362308973697,
+        "y": -289.5148949689696
+      },
+      "notes/nothing is more inhumane.md": {
+        "x": 530.4112226605142,
+        "y": -570.7957100188067
+      },
+      "notes/neck.md": {
+        "x": 567.8396650412454,
+        "y": 509.97824553915893
+      },
+      "notes/moments of growth.md": {
+        "x": -732.789213891705,
+        "y": -76.67970499964876
+      },
+      "notes/music.md": {
+        "x": 108.85355863106955,
+        "y": 857.137658399713
+      },
+      "notes/mother.md": {
+        "x": -90.60148546632546,
+        "y": -171.07427985527164
+      },
+      "notes/moral alignment.md": {
+        "x": -135.3548640127214,
+        "y": 512.6550571611372
+      },
+      "notes/money is less important.md": {
+        "x": -36.99563274876657,
+        "y": 54.46734284655434
+      },
+      "notes/mom.md": {
+        "x": 478.39409943858794,
+        "y": 473.8824799845248
+      },
+      "notes/love.md": {
+        "x": 109.19513423313033,
+        "y": -147.4082050376746
+      },
+      "notes/modern man.md": {
+        "x": 590.6408990495403,
+        "y": -545.8560339301142
+      },
+      "notes/milestones aren't trophies you collect.md": {
+        "x": -90.40385418466856,
+        "y": 116.48008602149272
+      },
+      "notes/maslow's hierarchy of needs.md": {
+        "x": -189.69958598033267,
+        "y": 602.1545840328595
+      },
+      "notes/meditation.md": {
+        "x": 139.5527382669654,
+        "y": 174.58258902925337
+      },
+      "notes/masculinity.md": {
+        "x": -13.365924491557713,
+        "y": -178.2321035997514
+      },
+      "notes/mark clark.md": {
+        "x": -205.42305473097855,
+        "y": 47.61805560364936
+      },
+      "notes/lust.md": {
+        "x": 53.33005845187645,
+        "y": -72.61430206957253
+      },
+      "notes/life is scary.md": {
+        "x": -69.69035381615939,
+        "y": 162.5468547835752
+      },
+      "notes/life is a perspective.md": {
+        "x": -216.772099663938,
+        "y": 848.9079655935416
+      },
+      "notes/lexi's second dream.md": {
+        "x": -540.5766491454491,
+        "y": -219.84421960226013
+      },
+      "notes/lexi's first dream.md": {
+        "x": -570.8894787259668,
+        "y": -113.06564339568136
+      },
+      "notes/letting go.md": {
+        "x": -230.55780490951474,
+        "y": -60.663787482809965
+      },
+      "notes/in the desert.md": {
+        "x": -583.6005403030154,
+        "y": -324.69646712752296
+      },
+      "notes/job.md": {
+        "x": -497.42927235070965,
+        "y": 266.15118040938785
+      },
+      "notes/leadership.md": {
+        "x": -892.2988186684205,
+        "y": 132.74710224554178
+      },
+      "notes/lawn mower.md": {
+        "x": 629.3221604337118,
+        "y": -408.3958447439681
+      },
+      "notes/judgement.md": {
+        "x": -204.59125085534902,
+        "y": 305.02716176260463
+      },
+      "notes/journal.md": {
+        "x": -69.97129892325614,
+        "y": -94.96943137156278
+      },
+      "notes/john deere 1025r tractor.md": {
+        "x": 523.2301694893983,
+        "y": -376.494226968813
+      },
+      "notes/it is good when you feel fear.md": {
+        "x": 96.06589976576755,
+        "y": -340.1078684556092
+      },
+      "notes/isaac.md": {
+        "x": 69.96462354901728,
+        "y": 469.5001802782579
+      },
+      "notes/intimacy.md": {
+        "x": 166.6291503554981,
+        "y": 98.312814084716
+      },
+      "notes/inside the pot.md": {
+        "x": -442.23744340357507,
+        "y": -56.73762140383791
+      },
+      "notes/inner family.md": {
+        "x": 110.72061174360762,
+        "y": -176.80685835858034
+      },
+      "notes/if i am i because you are you.md": {
+        "x": -232.32983373030712,
+        "y": -120.9036347770105
+      },
+      "notes/in east Africa there are the circumcised and there are the animals.md": {
+        "x": -252.00608950379868,
+        "y": -171.58360470758043
+      },
+      "notes/how to intepret dreams.md": {
+        "x": -153.5305216567584,
+        "y": -319.69459854116775
+      },
+      "notes/if the pot is made of clay.md": {
+        "x": 488.78829317611945,
+        "y": 186.26746283231688
+      },
+      "notes/imposter syndrome.md": {
+        "x": -72.61237484129906,
+        "y": 103.88891352767217
+      },
+      "notes/how to dream again.md": {
+        "x": -362.40319379307755,
+        "y": -561.3804861348137
+      },
+      "notes/identity.md": {
+        "x": -291.1699399897717,
+        "y": -207.19831081043338
+      },
+      "notes/how ideas are born.md": {
+        "x": 348.37711150510336,
+        "y": 801.712012009173
+      },
+      "notes/i've never been so confident.md": {
+        "x": -530.0191211733852,
+        "y": 335.4615810557801
+      },
+      "notes/i once was a modern man.md": {
+        "x": -130.71232178550198,
+        "y": -366.3326613737055
+      },
+      "notes/hymn of the hydrocrusher.md": {
+        "x": -5.467095493077549,
+        "y": -641.8564998796962
+      },
+      "notes/how to manage creativity.md": {
+        "x": -572.7977531923409,
+        "y": 132.6800075146478
+      },
+      "notes/growth mindset.md": {
+        "x": 4.002605477266085,
+        "y": 56.98138973882638
+      },
+      "notes/how to coach as a leader.md": {
+        "x": -198.80750344930806,
+        "y": 625.8797252174292
+      },
+      "notes/hoove heave.md": {
+        "x": 60.38801815482222,
+        "y": 434.5467231402721
+      },
+      "notes/how to be authentic.md": {
+        "x": 56.55567417886243,
+        "y": -422.27323596645346
+      },
+      "notes/how i struggle with trust.md": {
+        "x": -0.8780300670780966,
+        "y": 93.2627090025323
+      },
+      "notes/how can I be substantial if i fail to cast a shadow?.md": {
+        "x": -809.1729440820288,
+        "y": -458.41198009501954
+      },
+      "notes/honest.md": {
+        "x": 107.00841505714536,
+        "y": 63.01832933105743
+      },
+      "notes/holesaw chimes.md": {
+        "x": 329.90113198025466,
+        "y": -162.20641598371952
+      },
+      "notes/guilt.md": {
+        "x": 129.05261305566643,
+        "y": 19.234896297293773
+      },
+      "notes/hate.md": {
+        "x": 204.82599057045476,
+        "y": -192.38882609394528
+      },
+      "notes/habit.md": {
+        "x": 86.9428930880508,
+        "y": 374.74215419894955
+      },
+      "notes/genesis.md": {
+        "x": -131.91929138699228,
+        "y": -60.46991037860343
+      },
+      "notes/for when i'm gone.md": {
+        "x": -289.7160532084976,
+        "y": -113.42970463646418
+      },
+      "notes/grief.md": {
+        "x": -31.286634465317775,
+        "y": 110.67793058593358
+      },
+      "notes/grendel.md": {
+        "x": -94.57387131215967,
+        "y": -359.34564765104193
+      },
+      "notes/graph+.md": {
+        "x": -13.296873552662401,
+        "y": -331.22171968259283
+      },
+      "notes/god.md": {
+        "x": 42.93315324909951,
+        "y": -280.4578806986179
+      },
+      "notes/glutamate.md": {
+        "x": 475.0185059693699,
+        "y": 484.7672770303487
+      },
+      "notes/god is dead.md": {
+        "x": -491.3326885009958,
+        "y": -237.61326186749156
+      },
+      "notes/god adam and eve.md": {
+        "x": -379.9362642361235,
+        "y": -354.37434105620775
+      },
+      "notes/femininity.md": {
+        "x": -42.27331186938935,
+        "y": -266.2834988143297
+      },
+      "notes/father.md": {
+        "x": 148.01039742609476,
+        "y": -54.720216400534156
+      },
+      "notes/followers follow.md": {
+        "x": 577.6442645870218,
+        "y": -419.1439714710409
+      },
+      "notes/ez pass nh toll.md": {
+        "x": -31.77151948778745,
+        "y": 458.27845357000837
+      },
+      "notes/fear.md": {
+        "x": -84.80461162642952,
+        "y": 14.65816122136125
+      },
+      "notes/fear and trembling.md": {
+        "x": -211.58121715503344,
+        "y": 62.68078914771128
+      },
+      "notes/fear and trembling shot list.md": {
+        "x": -397.4828689934649,
+        "y": 141.5883283768435
+      },
+      "notes/faith.md": {
+        "x": 51.485046630569755,
+        "y": 52.28111440537955
+      },
+      "notes/expectation.md": {
+        "x": 52.72367738261605,
+        "y": 103.6871331062166
+      },
+      "notes/faith lets go.md": {
+        "x": -117.86946192722057,
+        "y": 111.85644728676476
+      },
+      "notes/faith is an unreserved opening of the mind to the truth.md": {
+        "x": -64.07694851869381,
+        "y": 209.38979558386532
+      },
+      "notes/failure is a moment.md": {
+        "x": -89.8063743667706,
+        "y": 77.95140480109087
+      },
+      "notes/dopamine.md": {
+        "x": 418.6366667741333,
+        "y": 421.9616791127918
+      },
+      "notes/experience comes after having needed it.md": {
+        "x": 33.24122295613376,
+        "y": -557.5237871723114
+      },
+      "notes/experience and existence are the same motion.md": {
+        "x": 735.7209967716052,
+        "y": -56.46848029267196
+      },
+      "notes/enough.md": {
+        "x": -511.09384104777865,
+        "y": 197.7573879611974
+      },
+      "notes/endocannabinoids.md": {
+        "x": 415.9907274594728,
+        "y": 566.9479246107742
+      },
+      "notes/emotions don't care.md": {
+        "x": -63.19375809401283,
+        "y": 549.9328380314605
+      },
+      "notes/elan and ruach.md": {
+        "x": 193.67625744745615,
+        "y": -598.8443093994406
+      },
+      "notes/egyptian ancestory as a threshold guardian.md": {
+        "x": 226.64682703635805,
+        "y": -133.25644452100747
+      },
+      "notes/egocentrism.md": {
+        "x": -193.3501809748909,
+        "y": 305.0710246375586
+      },
+      "notes/egyptian afterlife.md": {
+        "x": 169.77541396785023,
+        "y": -170.95385266620133
+      },
+      "notes/ego.md": {
+        "x": 509.77554502250354,
+        "y": 148.2130955093136
+      },
+      "notes/dream of the self.md": {
+        "x": -505.82107761066214,
+        "y": 424.3476088084652
+      },
+      "notes/dumb as it may be.md": {
+        "x": 97.7607007715671,
+        "y": -505.9723855107579
+      },
+      "notes/doubt.md": {
+        "x": -681.418407338291,
+        "y": -273.0276965424974
+      },
+      "notes/dreams.md": {
+        "x": -718.723823277163,
+        "y": -25.268614699550735
+      },
+      "notes/develop and identify team members.md": {
+        "x": 415.0033902380165,
+        "y": -55.11462423547489
+      },
+      "notes/can you give a compliment without comparing?.md": {
+        "x": 449.3658293395727,
+        "y": 860.3750015218067
+      },
+      "notes/building collaborative relationships.md": {
+        "x": 386.52789036100575,
+        "y": -301.2997527269089
+      },
+      "notes/desert fathers.md": {
+        "x": 245.55849162531726,
+        "y": 315.4246108245087
+      },
+      "notes/descartes.md": {
+        "x": 465.34631668591305,
+        "y": 386.42475467267775
+      },
+      "notes/conscious.md": {
+        "x": 339.8958710652145,
+        "y": 247.34982854218578
+      },
+      "notes/delusion.md": {
+        "x": -1.8277951123523137,
+        "y": 438.3609401484073
+      },
+      "notes/delusion point.md": {
+        "x": -1.6617915566609291,
+        "y": 413.0396204936785
+      },
+      "notes/dark waters.md": {
+        "x": 144.39111729073574,
+        "y": -205.30961261561848
+      },
+      "notes/cue.md": {
+        "x": -33.05942569144604,
+        "y": 384.23724860247864
+      },
+      "notes/creativity.md": {
+        "x": -743.505657875688,
+        "y": 90.52610745002623
+      },
+      "notes/christmas cards.md": {
+        "x": -457.7932914587509,
+        "y": 419.47349636908945
+      },
+      "notes/conceptualization.md": {
+        "x": 139.32858574544633,
+        "y": -509.63924286700893
+      },
+      "notes/community.md": {
+        "x": -423.34370539392444,
+        "y": 590.0357393691675
+      },
+      "notes/cognitive dissonance.md": {
+        "x": -159.5412241633297,
+        "y": 421.6986575457334
+      },
+      "notes/clay and pots.md": {
+        "x": 235.84285572106774,
+        "y": 142.89483392375533
+      },
+      "notes/belief.md": {
+        "x": -30.15537048392092,
+        "y": -33.712149849309846
+      },
+      "notes/belief clings.md": {
+        "x": -68.75022089656166,
+        "y": 74.41217647577021
+      },
+      "notes/bus.md": {
+        "x": 691.4455882972203,
+        "y": 500.47927570529225
+      },
+      "notes/brothers karamazov.md": {
+        "x": -178.70337299656904,
+        "y": -529.1507867340212
+      },
+      "notes/brainstorm 1983.md": {
+        "x": -480.1473185864598,
+        "y": -20.962434495776648
+      },
+      "notes/boundaries.md": {
+        "x": 707.6568318254497,
+        "y": -112.98150525113041
+      },
+      "notes/belief is the insistence.md": {
+        "x": -138.02383569782452,
+        "y": -468.3208923608155
+      },
+      "notes/aztec war cry.md": {
+        "x": 25.25608502715057,
+        "y": -84.14998357136497
+      },
+      "notes/beekeeping.md": {
+        "x": -321.18115565634747,
+        "y": 479.73567262774674
+      },
+      "notes/at war.md": {
+        "x": 199.00652964172258,
+        "y": -440.35143001391043
+      },
+      "notes/and her wind howled.md": {
+        "x": -61.682399734139295,
+        "y": 598.031166154169
+      },
+      "notes/ashley.md": {
+        "x": 604.2899704203354,
+        "y": -143.99014132788324
+      },
+      "notes/and may the buffalo roam.md": {
+        "x": -179.55081101853153,
+        "y": 403.67943990440494
+      },
+      "notes/as long as you do not know how to die and come to life again.md": {
+        "x": -854.487825210383,
+        "y": -580.7974677368003
+      },
+      "notes/ashley's unconscious.md": {
+        "x": -422.26436809525035,
+        "y": -560.2778553343396
+      },
+      "notes/archetypes.md": {
+        "x": 58.7921264684038,
+        "y": 578.1113148324015
+      },
+      "notes/art and fear.md": {
+        "x": 279.51377441317135,
+        "y": 112.59901730130125
+      },
+      "notes/anxiety.md": {
+        "x": 24.050718587609563,
+        "y": -56.784010499062994
+      },
+      "notes/anticipate.md": {
+        "x": 49.65533638566866,
+        "y": 309.09527826274274
+      },
+      "notes/animus.md": {
+        "x": -146.46301824035916,
+        "y": -359.1802771050953
+      },
+      "notes/anger.md": {
+        "x": 205.97859585683753,
+        "y": 50.873641409690656
+      },
+      "notes/adam and eve.md": {
+        "x": -156.79693381047494,
+        "y": -221.12945992144853
+      },
+      "notes/alone together makes family shine brighter.md": {
+        "x": -279.3793009630231,
+        "y": -302.3167369742847
+      },
+      "notes/alone.md": {
+        "x": -276.20130962951947,
+        "y": 70.19056351392622
+      },
+      "notes/an ugly girl.md": {
+        "x": 72.7289262414055,
+        "y": -260.0245074578866
+      },
+      "notes/an honest profession of modernity.md": {
+        "x": 525.114796534344,
+        "y": -332.3533394589197
+      },
+      "notes/a staircase in the meadow.md": {
+        "x": 249.12269141971203,
+        "y": 273.62924791595066
+      },
+      "notes/a pot is made of clay.md": {
+        "x": 471.3707919340311,
+        "y": 259.1360021521345
+      },
+      "notes/adam’s song.md": {
+        "x": -51.15520723455389,
+        "y": -70.07126998767619
+      },
+      "notes/abraham.md": {
+        "x": -490.3311180016994,
+        "y": -206.4195841826411
+      },
+      "notes/abraham tested.md": {
+        "x": -130.27463445441478,
+        "y": 865.389285584221
+      },
+      "notes/ableton live.md": {
+        "x": 329.69580707422944,
+        "y": -541.1273591694055
+      },
+      "notes/abandonment terror.md": {
+        "x": -416.81274607719683,
+        "y": 534.8129471408657
+      },
+      "notes/Untitled 1.md": {
+        "x": 130.23596474473905,
+        "y": 683.4738822586667
+      },
+      "notes/a mind that is single and sincere.md": {
+        "x": 419.5095848999662,
+        "y": 919.3196613735926
+      },
+      "notes/Until you make the unconscious conscious, it will direct your life and you will call it fate.md": {
+        "x": 696.2091755855613,
+        "y": -585.8440128096393
+      },
+      "notes/a meditation.md": {
+        "x": 411.14086540210116,
+        "y": 118.66478813381157
+      },
+      "notes/a man and his symbols.md": {
+        "x": -264.3971374305639,
+        "y": -343.2831939793502
+      },
+      "notes/a humble old friend.md": {
+        "x": 38.5876803474162,
+        "y": -665.3651064349384
+      },
+      "notes/a geolithic mailbox.md": {
+        "x": -12.953571585745687,
+        "y": -259.6405108020255
+      },
+      "notes/a bear in the woods.md": {
+        "x": -269.15639533286225,
+        "y": -551.2878040310507
+      },
+      "notes/Untitled.md": {
+        "x": -661.8377102442647,
+        "y": -629.5994729365641
+      },
+      "notes/Wasteland.md": {
+        "x": 329.0901689621906,
+        "y": -568.5427943576686
+      },
+      "notes/Unnamed.md": {
+        "x": -596.0082739883543,
+        "y": -788.881258219762
+      },
+      "notes/Temptation.md": {
+        "x": -215.02106846042852,
+        "y": -471.5791455912405
+      },
+      "notes/Snowblower.md": {
+        "x": -663.6378726758472,
+        "y": -631.8241537337749
+      },
+      "notes/Lonesome Lake.md": {
+        "x": -396.88230259734655,
+        "y": 685.1849502182808
+      },
+      "notes/I am exactly who I want to be.md": {
+        "x": 542.016666230552,
+        "y": 7.262180706734892
+      },
+      "notes/Hurt People Hurt People.md": {
+        "x": -553.0514798311507,
+        "y": 205.35594749404413
+      },
+      "notes/GABA.md": {
+        "x": 444.46616403354807,
+        "y": 532.2993810435339
+      },
+      "notes/4 and 7.md": {
+        "x": 525.8113290571229,
+        "y": -210.43818909874815
+      },
+      "notes/2 3 1.md": {
+        "x": 496.93971372678044,
+        "y": -287.5612423425062
+      }
+    }
+  }
 }
